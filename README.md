@@ -42,5 +42,13 @@ Stay tuned for updates and improvements. Your feedback is valuable, and any cont
 [![Iris Dataset](https://img.shields.io/badge/Iris-Dataset-green)](https://www.kaggle.com/datasets/saurabh00007/iriscsv)
 [![Car Price Dataset](https://img.shields.io/badge/Car%20Price-Dataset-blue)](https://www.kaggle.com/datasets/vijayaadithyanvg/car-price-predictionused-cars)
 [![Spam Dataset](https://img.shields.io/badge/Spam-Dataset-orange)](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
+[![Seaborn](https://img.shields.io/badge/Seaborn-Library-brightgreen)](https://seaborn.pydata.org/index.html)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Library-blueviolet)](https://matplotlib.org/)
+[![NLTK](https://img.shields.io/badge/NLTK-Library-yellow)](https://www.nltk.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-Library-blue)](https://scikit-learn.org/stable/index.html)
+[![Python](https://img.shields.io/badge/Python-Language-blue)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/)
 
 Feel free to explore, contribute, and learn from these machine learning projects!
+
